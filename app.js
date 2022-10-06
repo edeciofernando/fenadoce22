@@ -1,6 +1,6 @@
 import express from 'express'
 const app = express()
-const port = 3001
+const port = 80
 
 import routes from './routes.js'
 
